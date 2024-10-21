@@ -15,5 +15,6 @@ var l3 = "del";
 var l4 = "triangulo";
 var l5 = "es";
 
+
 alert(l1 + " " + l2 + " " + l3 +" " + l4 + " " + l5 + " " + area1);
 
